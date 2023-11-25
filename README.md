@@ -3,7 +3,7 @@
 
 I got basic knowledge for web application development and  looking for my first job in the field
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ryeman84)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ryeman84&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 Skills: Java / Spring / Spring Boot / PostgreSQL / MySQL / Linux / Git
 
