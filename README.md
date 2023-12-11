@@ -7,6 +7,10 @@ I got basic knowledge for web application development and  looking for my first 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ryeman84&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+[CodeWars](https://www.codewars.com/users/ryeman84)
+
+![CodeWars](https://www.codewars.com/users/ryeman84/badges/large)
+
 Skills: Java / Spring / Spring Boot / PostgreSQL / MySQL / Linux / Git
 
 
