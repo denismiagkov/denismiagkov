@@ -11,7 +11,7 @@ I got basic knowledge for web application development and  looking for my first 
 
 ![CodeWars](https://www.codewars.com/users/ryeman84/badges/large)
 
-Skills: Java / Spring / Spring Boot / PostgreSQL / MySQL / Linux / Git
+Skills: Java / Spring / Spring Boot / JUnit / Hibernate / PostgreSQL / MySQL / Linux / Git / Docker
 
 
 
