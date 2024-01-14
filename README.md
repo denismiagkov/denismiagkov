@@ -13,6 +13,8 @@ I got basic knowledge for web application development and  looking for my first 
 
 Skills: Java / Spring / Spring Boot / JUnit / Hibernate / PostgreSQL / MySQL / Linux / Git / Docker
 
+e-mail: medny2012@yandex.ru
+
 
 
 
